@@ -1,0 +1,203 @@
+City,Subdivision,Acres,Paved Street,Winter Access,Bedrooms,Total Baths,Apx Fin SqFt,Age,Year Built,Garage,Carport,Foundation,Heat,Sewer,Water,Sold Price,Closed Date,Days on Market
+McCall,Lake Fork Landing,1.149,No,Yes,3,3.0,2064,Unknown,2022,Three,Unknown,Unknown,Fireplace,Septic Approved,Artesian Well,1067991.0,8/31/2023,533
+Donnelly,Fir Grove Estates,0.299,Yes,Yes,3,2.0,1572,Under Construction,2023,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace, Heat Pump",NLSD,NLSD,539900.0,1/19/2024,528
+McCall,Jasper,0.25,No,Yes,2,1.0,1008,51 - 80 Years,1946,Two,Unknown,Block,"Elec Baseboard, Fireplace",PLSWD,Public,820000.0,7/20/2023,299
+McCall,Timberlost 1,0.51,Yes,Yes,3,2.5,2522,11 - 20 Years,2003,Two,Unknown,Concrete Perimeter,"Propane, Propane Fire Place, Propane Forced Air, Wall Heater",PLSWD,Public,840000.0,11/1/2023,375
+McCall,Spring Mountain Ranch 4,0.28,Yes,Yes,3,2.0,1800,Unknown,2001,Two,Unknown,Concrete Perimeter,"Fireplace, Propane",City,Public,1130000.0,7/7/2023,233
+Donnelly,Tamarack Resort Planned Unit Development Phase 3.2,0.27,Yes,Yes,3,3.5,2945,New-Never Occupied,2023,Two,Unknown,Unknown,"Elec Forced Air, Propane Forced Air",NLSD,NLSD,2499000.0,2/16/2024,410
+Donnelly,Tamarack Resort Planned Unit Development Phase 3.2,0.28,Yes,Yes,4,3.5,3364,Under Construction,2023,Two,Unknown,Unknown,"Elec Forced Air, Propane Forced Air",NLSD,NLSD,2799000.0,12/28/2023,359
+McCall,Timberlost 1,0.21,Yes,Yes,3,3.0,2242,21 - 30 Years,1995,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Propane",City,Public,800000.0,8/4/2023,212
+McCall,Ashton Estates,1.4,Yes,Yes,3,4.0,3200,New-Never Occupied,2022,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Pellet Stove",Septic Installed,Well,1350000.0,1/29/2024,383
+McCall,Timberlost 3,0.24,Yes,Yes,3,2.0,1531,31 - 50 Years,1978,Three,Unknown,Concrete Perimeter,"Elec Baseboard, Propane Fire Place",PLSWD,Public,755000.0,8/28/2023,202
+Donnelly,Whistler's Cove,0.362,No,No,4,3.0,2233,Unknown,2023,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",City,Well,899000.0,8/3/2023,158
+McCall,Quaking Aspen,4.606,No,Yes,3,2.0,2784,11 - 20 Years,2010,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace Insert",Septic Installed,Well,1060000.0,7/28/2023,149
+Donnelly,Tamarack Resort Phase 1,0.5,Yes,Yes,7,5.0,4568,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,"Fireplace, Heat Pump, Propane Fire Place",NLSD,NLSD,2950000.0,9/8/2023,190
+McCall,Woodlands 2,0.3,Yes,Yes,4,2.0,1484,11 - 20 Years,2003,Three,Unknown,Concrete Perimeter,"Propane Fire Place, Propane Forced Air",PLSWD,Public,765000.0,8/28/2023,166
+Donnelly,Woods on Norwood The,1.06,Yes,Yes,4,2.0,2431,New-Never Occupied,2023,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Heat Pump, Propane Fire Place",NLSD,Well,825000.0,9/15/2023,175
+Donnelly,Hawks Bay 1,0.33,Yes,Yes,3,2.0,1687,6 - 10 Years,2015,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",NLSD,Community,730000.0,8/25/2023,147
+McCall,Unknown,10.0,Yes,Yes,3,2.5,3448,31 - 50 Years,1990,Four,Two,Concrete Perimeter,"Propane Fire Place, Propane Forced Air",Septic Installed,Well,1225000.0,9/1/2023,138
+McCall,Brookdale Meadows,3.78,No,Yes,3,2.5,3003,1 - 5 Years,2020,Five or More,Unknown,Slab,"Elec Forced Air, Heat Pump, Propane Fire Place",Septic Installed,Well,1300000.0,9/5/2023,133
+McCall,Running Horse,0.06,Yes,Yes,4,3.0,2299,New-Never Occupied,2023,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",PLSWD,Public,1825000.0,8/18/2023,114
+McCall,Aspen Ridge 1,0.36,Yes,Yes,4,3.0,1860,11 - 20 Years,2005,Three,Unknown,Concrete Perimeter,Propane Forced Air,PLSWD,Public,860000.0,8/14/2023,110
+McCall,Aspen Ridge 3,0.148,Yes,Yes,3,3.0,2091,Unknown,2017,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",City,Public,1035000.0,7/7/2023,71
+McCall,Spring Mountain Meadows,0.29,Yes,Yes,3,3.0,2406,1 - 5 Years,2021,Two,Unknown,Concrete Perimeter,"Heat Pump, Pellet Stove, Propane Fire Place, Propane Forced Air",City,Public,905000.0,8/24/2023,109
+McCall,Unknown,0.26,No,Yes,2,2.0,1344,51 - 80 Years,1971,Unknown,Two,Concrete Perimeter,Elec Baseboard,NLSD,Public,477500.0,7/20/2023,71
+Donnelly,Meadows at West Mountain 1,0.2,Yes,Yes,3,2.0,1322,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,Elec Forced Air,NLSD,Community,445900.0,7/26/2023,75
+McCall,Mountain View Estates,3.23,Yes,Yes,4,4.0,4997,21 - 30 Years,1999,Five or More,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place, Wood Stove, Other",Septic Installed,Well,1400000.0,10/23/2023,158
+McCall,Kings Pines 4,2.0,Yes,Yes,3,2.5,2072,New-Never Occupied,2022,Two,Unknown,Concrete Perimeter,"Propane Fire Place, Propane Forced Air",Septic Installed,Community,975900.0,7/26/2023,69
+McCall,Syringa Estates,0.32,Yes,Yes,4,3.5,3104,11 - 20 Years,2003,Two,Unknown,Slab,"Elec Baseboard, Propane Forced Air",City,Public,855000.0,9/26/2023,131
+McCall,Pine Terrace 1,1.32,Yes,Yes,4,3.5,2268,New-Never Occupied,2022,Three,Unknown,Concrete Perimeter,Propane Forced Air,Septic Installed,Well,500000.0,8/15/2023,89
+McCall,Jughandle Highlands 1,3.8,Yes,Yes,4,3.5,3068,31 - 50 Years,1990,Five or More,One,Concrete Perimeter,"Elec Baseboard, Propane Fire Place, Other",Septic Installed,Community,1250000.0,10/6/2023,139
+McCall,Jug Mountain Ranch Phase 1 Stage 1,0.46,Yes,Yes,4,3.5,3672,11 - 20 Years,2004,Two,Unknown,Slab,"Fireplace, Propane Fire Place, Radiant, Wood Stove",Community,Community,1300000.0,1/8/2024,232
+Donnelly,McLeod and Edwards Wagon Wheel 8,1.0313,No,Yes,3,3.0,2400,11 - 20 Years,2010,Three,Unknown,Concrete Perimeter,"Fireplace, Propane Fire Place, Propane Forced Air",NLSD,Well,1100000.0,8/18/2023,107
+McCall,Blackhawk Lake Estates 2,1.89,Yes,Yes,3,3.5,3289,6 - 10 Years,2017,Two,Unknown,"Concrete Perimeter, Slab","Heat Pump, Propane Fire Place, Propane Forced Air",Septic Installed,Well,1635000.0,7/12/2023,51
+McCall,River,0.31,Yes,Yes,6,6.0,3168,31 - 50 Years,1974,Unknown,Two,Concrete Perimeter,"Elec Baseboard, Heat Pump, Propane Fire Place",City,Public,885000.0,8/14/2023,84
+McCall,West Place,2.0,No,Yes,4,3.0,2714,21 - 30 Years,1999,Five or More,Unknown,Unknown,"Elec Forced Air, Propane Fire Place",Septic Installed,Well,1250000.0,8/15/2023,83
+Donnelly,Mountain Meadows 3,0.8058,No,Yes,3,2.0,2073,11 - 20 Years,2007,Five or More,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",NLSD,Well,855000.0,12/8/2023,198
+McCall,Unknown,38.201,Yes,Yes,3,2.0,2258,51 - 80 Years,1970,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace Insert",Septic Installed,Well,1525000.0,8/25/2023,93
+McCall,Aspen Ridge 3,0.14,Yes,Yes,3,2.0,1560,1 - 5 Years,2020,One,Unknown,Slab,"Elec Forced Air, Fireplace, Wood Stove",PLSWD,Public,690000.0,8/8/2023,75
+McCall,Payette Lake Club,0.309,No,Yes,5,3.0,3470,Unknown,1980,Two,Unknown,Unknown,"Elec Baseboard, Wood Stove",City,Shared Well,1425000.0,8/2/2023,69
+McCall,Courtney Estates,5.41,No,Yes,1,1.5,1099,11 - 20 Years,2002,Two,Unknown,Slab,"Elec Forced Air, Heat Pump, Wood Stove",Septic Installed,Well,825000.0,8/22/2023,89
+McCall,West Place,2.04,Yes,Yes,3,2.5,2980,11 - 20 Years,2009,Two,Unknown,Concrete Perimeter,"Propane Forced Air, Wood Stove",Septic Installed,Well,969185.0,7/26/2023,63
+McCall,Greystone Village 3,0.0,Yes,Yes,3,2.0,1064,11 - 20 Years,2007,One,Unknown,Concrete Perimeter,"Fireplace, Wall Heater",City,Public,505000.0,2/16/2024,266
+McCall,Brookdale Meadows Phase 2,3.412,No,Yes,3,2.0,1621,11 - 20 Years,2004,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Wood Stove",Septic Installed,Well,680000.0,7/24/2023,57
+Donnelly,Whistler's Cove,0.33,No,Yes,3,3.0,1988,Under Construction,2023,Two,Unknown,Concrete Perimeter,Elec Forced Air,City,Well,775000.0,12/20/2023,205
+McCall,Evergreen Terrace 1,0.219,Yes,Yes,4,3.0,2102,31 - 50 Years,1980,One,Unknown,Concrete Perimeter,"Elec Baseboard, Propane Fire Place, Wall Heater",City,Public,628000.0,8/3/2023,64
+Donnelly,CR 1,0.965,No,Yes,3,2.0,1794,31 - 50 Years,1968,Unknown,Unknown,Concrete Perimeter,Propane Forced Air,Septic Installed,Well,400000.0,1/5/2024,220
+Donnelly,Wagon Wheel Ranch 5,0.9263,Yes,Yes,4,3.0,2788,31 - 50 Years,1998,Four,Two,Concrete Perimeter,"Wall Heater, Wood Stove",NLSD,Well,650000.0,10/25/2023,150
+McCall,Unknown,2.986,No,Yes,3,2.5,2329,11 - 20 Years,2003,Three,One,Concrete Perimeter,"Propane Fire Place, Propane Forced Air, Wall Heater",Septic Installed,Well,1050000.0,11/9/2023,161
+McCall,Binford,1.75,No,Yes,3,3.0,2913,21 - 30 Years,2002,Two,Unknown,Concrete Perimeter,"Propane Fire Place, Radiant, Wall Heater",Septic Installed,Well,940000.0,10/4/2023,125
+McCall,Lakeforest,0.192,Yes,Yes,4,2.0,1800,31 - 50 Years,1974,One,Unknown,Concrete Perimeter,"Elec Baseboard, Propane Fire Place, Wall Heater, Wood Stove",PLSWD,Public,535000.0,9/29/2023,120
+Donnelly,Ora May,0.67,Yes,Yes,3,1.0,1160,31 - 50 Years,1973,Unknown,One,"Pillar/Post/Pier, Wood","Elec Baseboard, Wood Stove",NLSD,Well,411000.0,8/20/2023,79
+McCall,Crescent Rim,0.32,Yes,Yes,3,2.0,1680,31 - 50 Years,1962,Unknown,Unknown,Concrete Perimeter,Propane,Septic Installed,Well,640000.0,7/28/2023,53
+McCall,Evergreen Terrace 1,0.2,Yes,Yes,3,2.0,2011,11 - 20 Years,2003,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place, Wood Stove",City,Public,755000.0,7/12/2023,36
+McCall,Shore Lodge Cottages,0.14,Yes,Yes,3,2.5,1959,1 - 5 Years,2020,One,Unknown,Concrete Perimeter,"Fireplace, Propane Forced Air",PLSWD,Public,1745950.0,7/26/2023,50
+McCall,Woodlands 1,0.29,Yes,Yes,4,2.0,1780,11 - 20 Years,2004,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",City,Public,825000.0,7/24/2023,47
+McCall,Unknown,0.77,Yes,Yes,3,4.0,4408,11 - 20 Years,2008,Four,One,Slab,"Radiant, Wood Stove",Septic Installed,Well,Unknown,Unknown,391
+Donnelly,Smylie Lane,0.996,No,Yes,3,2.0,1755,6 - 10 Years,2017,Two,Unknown,Concrete Perimeter,"Elec Baseboard, Pellet Stove",Septic Installed,Well,580000.0,11/9/2023,155
+McCall,Unknown,0.119,Yes,Yes,2,1.0,860,31 - 50 Years,1975,One,Unknown,Concrete Perimeter,"Pellet Stove, Wall Heater",PLSWD,Public,513000.0,7/13/2023,32
+McCall,Whitetail PUD 1,1.55,Yes,Yes,4,5.0,4231,Under Construction,2024,Three,Unknown,Concrete Perimeter,"Fireplace, Propane Forced Air",PLSWD,Public,Unknown,Unknown,387
+McCall,Whitetail PUD 1,1.32,Yes,Yes,5,5.5,4834,11 - 20 Years,2007,Four,Unknown,Unknown,Unknown,PLSWD,Public,2900000.0,10/20/2023,124
+McCall,Ski Ranch,0.803,No,Yes,3,2.0,1164,21 - 30 Years,1994,Two,Unknown,Concrete Perimeter,"Elec Baseboard, Wood Stove",Septic Installed,Shared Well,709000.0,8/14/2023,56
+Donnelly,Wagon Wheel Ranch 2,0.46,No,Yes,3,2.0,1800,11 - 20 Years,2007,Unknown,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace, Other",NLSD,Well,425000.0,8/18/2023,57
+McCall,Whispering Woods,4.68,Yes,Yes,3,3.0,2860,11 - 20 Years,2007,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Heat Pump, Wall Heater",Septic Installed,Well,1127500.0,8/18/2023,57
+McCall,Greystone Village 3,0.0,Yes,Yes,3,2.0,1064,11 - 20 Years,2007,One,Unknown,Concrete Perimeter,"Heat Pump, Mini-Splits, Wall Heater, Wood Stove",City,Public,455000.0,11/17/2023,147
+Donnelly,Whistler's Cove,0.35,No,No,4,3.0,2495,New-Never Occupied,2023,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",City,Well,950000.0,9/12/2023,76
+McCall,Pine Terrace 1,1.38,No,Yes,4,2.5,2980,21 - 30 Years,1999,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",Septic Installed,Well,800000.0,9/27/2023,91
+McCall,Spring Mountain Ranch 5,0.2707,Yes,Yes,3,3.0,2372,6 - 10 Years,2016,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Heat Pump, Propane Fire Place",PLSWD,Public,1150000.0,9/12/2023,77
+McCall,Carefree 7,4.2,No,Yes,2,2.5,1248,21 - 30 Years,1997,Two,Unknown,Concrete Perimeter,"Elec Baseboard, Wood Stove",Septic Installed,Well,710000.0,8/16/2023,48
+Donnelly,Whistler's Cove,0.37,No,Yes,4,3.0,2541,New-Never Occupied,2023,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",City,Well,880000.0,12/29/2023,180
+McCall,Sylvan Beach,0.534,Yes,Yes,4,3.0,2174,51 - 80 Years,1942,Unknown,Two,"Concrete Perimeter, Slab","Elec Baseboard, Propane Fire Place, Wall Heater",PLSWD,Shared Well,685000.0,8/21/2023,50
+Donnelly,Hawks Bay 1,0.34,Yes,Yes,4,3.5,3739,11 - 20 Years,2006,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace Insert",NLSD,Community,1250000.0,8/16/2023,48
+McCall,Evergreen Terrace,0.22,Yes,Yes,5,3.5,2785,11 - 20 Years,2005,Two,Unknown,"Concrete Perimeter, Slab","Elec Forced Air, Wall Heater",PLSWD,Public,859500.0,3/26/2024,267
+Donnelly,Tamarack Resort Phase 2.1,0.3122,Yes,Yes,4,4.5,2794,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",NLSD,NLSD,2075000.0,7/31/2023,25
+Donnelly,Donnelly Townsite,0.161,No,Yes,2,1.0,1168,51 - 80 Years,1950,Unknown,Unknown,Concrete Perimeter,Wall Heater,City,Public,255000.0,8/28/2023,53
+McCall,Unknown,10.52,Yes,Yes,4,2.0,2801,11 - 20 Years,2008,Unknown,Unknown,Concrete Perimeter,"Elec Forced Air, Mini-Splits, Propane, Wood Stove",Septic Installed,Well,1025000.0,6/14/2024,338
+McCall,Pine Terrace 1,1.67,No,Yes,2,1.0,1283,1 - 5 Years,2019,Unknown,Unknown,Slab,Propane,Septic Installed,Well,610000.0,1/19/2024,190
+McCall,Timberlost 4,0.198,Yes,Yes,3,2.5,2136,31 - 50 Years,1991,Two,Unknown,Concrete Perimeter,"Elec Baseboard, Propane Fire Place",City,Public,650000.0,5/15/2024,306
+Donnelly,Lake Cascade Forest 2,0.48,Yes,Yes,3,3.0,2440,31 - 50 Years,1983,Unknown,Unknown,Concrete Perimeter,"Heat Pump, Propane, Wood Stove",NLSD,Well,675000.0,10/10/2023,87
+Donnelly,Tamarack Resort Phase 1,1.07,Yes,Yes,4,5.0,4495,11 - 20 Years,2016,Two,One,Concrete Perimeter,"Elec Forced Air, Propane Fire Place, Radiant",NLSD,NLSD,4000000.0,10/2/2023,78
+McCall,Valley View 1,1.79,Yes,Yes,3,2.5,1925,21 - 30 Years,2002,Four,Two,Concrete Perimeter,"Elec Forced Air, Heat Pump, Propane Fire Place",Septic Installed,Well,877600.0,8/7/2023,19
+Donnelly,Whistler's Cove,0.367,Yes,Yes,3,3.0,1988,New-Never Occupied,2023,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",City,Well,747500.0,4/12/2024,267
+Donnelly,Whistler's Cove,0.368,No,No,3,2.0,1617,New-Never Occupied,2023,Two,Unknown,Concrete Perimeter,Elec Forced Air,City,Well,690000.0,8/17/2023,28
+McCall,Lick Creek Meadows Phase 2,0.207,Yes,Yes,5,4.5,2946,< 1 Year,2022,Two,Unknown,Concrete Perimeter,"Fireplace, Fireplace Insert, Heat Pump, Propane, Propane Fire Place, Propane Forced Air",PLSWD,Public,1255000.0,10/31/2023,102
+McCall,Thompson Wooley,0.22,Yes,Yes,3,2.0,972,31 - 50 Years,1965,Two,Unknown,"Block, Concrete Perimeter","Elec Baseboard, Propane Fire Place",PLSWD,Public,510000.0,9/1/2023,40
+Donnelly,Tamarack Resort Phase 1,0.153,Yes,Yes,3,3.5,2400,11 - 20 Years,2004,Two,Unknown,Concrete Perimeter,"Propane, Propane Fire Place",NLSD,NLSD,1995000.0,3/12/2024,229
+McCall,Lake Fork Estates,2.63,Yes,Yes,3,2.0,1789,31 - 50 Years,1979,Four,One,Concrete Perimeter,"Elec Baseboard, Radiant, Wood Stove",Septic Installed,Well,685000.0,11/6/2023,97
+Donnelly,Royal Scot,0.33,No,Yes,2,1.0,812,31 - 50 Years,1979,Two,One,Block,"Elec Baseboard, Wood Stove",NLSD,Well,550000.0,9/21/2023,50
+McCall,Kings Pines 4,2.0,Yes,Yes,3,2.5,2072,< 1 Year,2022,Two,Unknown,Concrete Perimeter,"Propane Fire Place, Propane Forced Air","Community, Septic Installed",Community,1051555.0,9/12/2023,40
+McCall,Carefree 7,2.4281,No,Yes,3,2.0,1656,1 - 5 Years,2015,Four,Two,Slab,"Wall Heater, Wood Stove",Septic Installed,Well,749000.0,8/2/2023,56
+McCall,Broken Ridge,0.54,Yes,Yes,3,2.0,1624,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,"Propane Forced Air, Wood Stove",City,Public,799900.0,9/29/2023,58
+McCall,Unknown,0.285,Yes,Yes,3,2.0,1472,11 - 20 Years,2005,One,Unknown,Concrete Perimeter,"Elec Baseboard, Wood Stove",PLSWD,Public,650000.0,9/21/2023,46
+Donnelly,CR 4,1.0,No,No,0,1.0,572,51 - 80 Years,1969,Unknown,Unknown,Pillar/Post/Pier,"Wood Stove, Other",Needs Approval,Needs Water,170000.0,9/22/2023,45
+Donnelly,Wagon Wheel Ranch 4,0.46,Yes,Yes,2,2.0,1600,31 - 50 Years,1982,Two,One,Concrete Perimeter,Elec Forced Air,NLSD,Shared Well,685000.0,10/13/2023,61
+Donnelly,Wagon Wheel Ranch 5,0.46,No,Yes,3,2.0,1296,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,"Pellet Stove, Propane Forced Air",NLSD,Well,485000.0,11/9/2023,88
+McCall,Evergreen Terrace 3,0.23,Yes,Yes,3,2.0,2025,21 - 30 Years,1993,Two,Unknown,Concrete Perimeter,Elec Forced Air,PLSWD,Public,780000.0,11/15/2023,86
+McCall,Blackhawk on the River 2,0.59,Yes,Yes,3,2.5,3457,6 - 10 Years,2017,Three,Unknown,Other,"Fireplace Insert, Propane, Propane Fire Place, Radiant",Community,Community,1970000.0,11/3/2023,73
+McCall,Carefree 5,4.104,Yes,Yes,4,3.0,2760,21 - 30 Years,1995,Two,One,Concrete Perimeter,"Propane Forced Air, Wood Stove",Septic Installed,Well,1149900.0,10/20/2023,58
+McCall,Hogue Hollow,5.0732,No,Yes,3,2.0,2591,21 - 30 Years,1998,Five or More,Unknown,Concrete Perimeter,"Elec Forced Air, Wood Stove",Septic Installed,Well,903000.0,12/7/2023,105
+Donnelly,Unknown,0.31,No,Yes,3,2.0,2100,81+ Years,1914,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Wall Heater, Wood Stove",City,NLSD,535000.0,10/25/2023,62
+Donnelly,Tamarack Resort Phase 1,0.067,Yes,Yes,2,2.5,1250,11 - 20 Years,2005,One,Unknown,Concrete Perimeter,"Propane Fire Place, Propane Forced Air",NLSD,NLSD,1300000.0,2/29/2024,184
+McCall,Pearson Corners,3.9,Yes,Yes,4,3.5,2954,1 - 5 Years,2021,Five or More,Unknown,Slab,"Elec Forced Air, Heat Pump, Propane Fire Place, Radiant",Septic Installed,Well,1850000.0,9/15/2023,16
+McCall,Hoff and Brown,0.223,Yes,Yes,2,2.0,1260,51 - 80 Years,1968,Two,Unknown,Concrete Perimeter,"Fireplace, Radiant",PLSWD,Public,505000.0,11/17/2023,79
+Donnelly,Wagon Wheel Ranch 4,0.476,No,Yes,2,2.0,1212,11 - 20 Years,2004,Unknown,Four,Concrete Perimeter,Radiant,NLSD,Well,533000.0,10/3/2023,33
+McCall,Running Horse,0.06,Yes,Yes,4,3.0,2299,New-Never Occupied,2022,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",PLSWD,Public,1843250.0,1/26/2024,147
+Donnelly,Tamarack Resort Phase 1,0.13,Yes,Yes,3,3.0,1818,6 - 10 Years,2004,One,Unknown,Concrete Perimeter,"Fireplace, Gas Forced Air",NLSD,NLSD,1620000.0,9/6/2023,42
+McCall,Blackhawk on the River 2,0.574,Yes,Yes,3,4.0,3616,New-Never Occupied,2023,Three,Unknown,Concrete Perimeter,Propane Forced Air,Community,Community,1650000.0,4/30/2024,233
+McCall,Evergreen Terrace 1,0.225,Yes,Yes,1,1.0,552,31 - 50 Years,1980,Unknown,Unknown,Concrete Perimeter,"Elec Baseboard, Wood Stove",PLSWD,Public,347000.0,10/12/2023,25
+Donnelly,Ora May,0.8,No,Yes,3,2.0,960,1 - 5 Years,2019,Unknown,Unknown,Concrete Perimeter,Elec Forced Air,City,Well,475000.0,2/28/2024,164
+McCall,Spring Mountain Ranch 1,0.36,Yes,Yes,4,3.5,3262,New-Never Occupied,2023,Two,Unknown,Concrete Perimeter,"Fireplace, Fireplace Insert, Propane Forced Air",PLSWD,Public,1725000.0,10/27/2023,40
+McCall,McCall Acreage,0.114,No,Yes,2,1.0,980,31 - 50 Years,1980,Unknown,Unknown,Concrete Perimeter,"Wall Heater, Wood Stove",City,Public,430000.0,4/12/2024,205
+Donnelly,Wagon Wheel Ranch 1,0.481,No,Yes,3,2.0,1344,21 - 30 Years,1999,Two,One,Unknown,"Elec Baseboard, Elec Forced Air, Wood Stove",City,Well,590000.0,10/18/2023,27
+McCall,Falcon Point,2.04,Yes,Yes,3,3.5,2650,New-Never Occupied,2022,Five or More,Unknown,Unknown,Unknown,Septic Installed,Well,900000.0,1/16/2024,117
+McCall,19th Hole Estates,0.191,No,Yes,3,2.0,1536,31 - 50 Years,1990,Two,Unknown,Concrete Perimeter,Elec Baseboard,City,Public,715000.0,8/4/2023,32
+Donnelly,Crane Shores,0.334,Yes,Yes,5,4.0,2548,1 - 5 Years,2021,Three,Unknown,Concrete Perimeter,Elec Forced Air,NLSD,NLSD,950000.0,3/4/2024,161
+McCall,Blackhawk on the River 1,0.633,Yes,Yes,4,3.5,3144,New-Never Occupied,2023,Three,Unknown,Unknown,"Elec Forced Air, Fireplace Insert",City,Community,1845000.0,10/23/2023,26
+Donnelly,Whistler's Cove,0.346,No,Yes,4,3.5,2570,New-Never Occupied,2023,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",City,Well,920000.0,2/29/2024,154
+McCall,Valley View 1,1.03,Yes,Yes,3,2.0,1810,21 - 30 Years,1994,One,Two,Concrete Perimeter,"Pellet Stove, Wall Heater",Septic Installed,Well,699000.0,10/31/2023,32
+McCall,Unknown,9.7,Yes,Yes,5,3.5,4150,21 - 30 Years,1998,Five or More,One,Concrete Perimeter,"Elec Baseboard, Fireplace, Propane, Propane Forced Air, Radiant",Septic Installed,Well,1600000.0,12/15/2023,73
+Donnelly,Tamarack Resort Phase 1,0.0666,Yes,Yes,2,2.5,1250,11 - 20 Years,2004,One,Unknown,Concrete Perimeter,"Propane Fire Place, Propane Forced Air",NLSD,NLSD,1275000.0,3/12/2024,159
+McCall,Blackhawk Lake Estates 1,1.967,Yes,Yes,3,3.0,2711,6 - 10 Years,2015,Two,Unknown,"Concrete Perimeter, Slab","Propane Fire Place, Radiant",Septic Installed,Well,1350000.0,11/21/2023,47
+McCall,Pinecrest Add.,0.34,Yes,Yes,2,1.0,854,51 - 80 Years,1949,Unknown,Unknown,Block,"Fireplace, Wall Heater",PLSWD,Well,150000.0,1/31/2024,115
+McCall,Rio Vista 4,0.272,Yes,Yes,4,3.0,2336,51 - 80 Years,1978,Two,Unknown,"Concrete Perimeter, Slab","Elec Baseboard, Propane",PLSWD,Public,695000.0,3/8/2024,148
+Donnelly,Wagon Wheel Ranch 3,0.593,No,Yes,3,2.0,1188,1 - 5 Years,2018,Unknown,Unknown,Concrete Perimeter,"Elec Forced Air, Wood Stove",NLSD,Well,399000.0,5/2/2024,203
+McCall,White Cloud 2,1.76,Yes,Yes,4,2.0,2065,< 1 Year,2023,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",Septic Installed,Well,1050000.0,1/8/2024,85
+McCall,Blackhawk Ranch 3,1.13,No,Yes,3,3.0,2450,11 - 20 Years,2005,Two,One,Concrete Perimeter,"Gas Forced Air, Propane Fire Place",Septic Installed,Well,1190000.0,12/14/2023,59
+McCall,Jasper,0.44,No,Yes,4,3.0,2286,31 - 50 Years,1975,Two,Unknown,Concrete Perimeter,"Elec Baseboard, Propane Fire Place",City,Public,1495000.0,11/28/2023,37
+McCall,Running Horse,0.06,Yes,Yes,4,3.0,2299,New-Never Occupied,2023,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",PLSWD,Public,1775000.0,12/29/2023,67
+Donnelly,Roseberry Ranches,2.97,No,Yes,3,2.0,2380,1 - 5 Years,2019,Three,Unknown,Concrete Perimeter,"Heat Pump, Pellet Stove, Propane Forced Air",Septic Installed,Well,790000.0,12/15/2023,52
+McCall,Long View Acres,2.3,No,Yes,3,2.0,1356,21 - 30 Years,1994,One,Unknown,Unknown,Propane Forced Air,Septic Installed,Well,469000.0,11/3/2023,34
+McCall,Valley View 3,0.97,Yes,Yes,3,2.0,2072,11 - 20 Years,2004,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Wood Stove",Septic Installed,Well,840000.0,2/14/2024,104
+McCall,Unknown,20.9,Yes,Yes,3,2.5,3107,11 - 20 Years,2005,Three,Unknown,Concrete Perimeter,"Elec Forced Air, Heat Pump, Wood Stove",Septic Installed,Well,1928000.0,3/6/2024,124
+Donnelly,Donnelly City of,0.24,No,Yes,3,3.0,924,81+ Years,1919,Unknown,Unknown,"Concrete Perimeter, Other",Elec Forced Air,City,Public,340000.0,1/16/2024,71
+Donnelly,Tamarack Resort Phase 1,0.0689,Yes,Yes,2,2.5,1250,11 - 20 Years,2004,One,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",NLSD,NLSD,1250000.0,3/28/2024,142
+Donnelly,Hawks Bay 2,0.46,Yes,Yes,4,3.5,2800,1 - 5 Years,2021,Two,Unknown,Concrete Perimeter,Elec Forced Air,NLSD,Community,1100000.0,2/16/2024,101
+McCall,Evergreen Terrace 2,0.256,Yes,Yes,3,2.0,1174,31 - 50 Years,1982,One,Unknown,Concrete Perimeter,"Elec Baseboard, Propane Fire Place",City,Public,648500.0,1/5/2024,53
+McCall,Fox Ridge,0.507,Yes,Yes,3,2.0,1500,1 - 5 Years,2019,Two,Unknown,Concrete Perimeter,"Fireplace, Gas Forced Air",City,Public,700000.0,12/22/2023,37
+Donnelly,Meadows at West Mountain 2,0.1837,Yes,Yes,3,2.0,1760,11 - 20 Years,2006,Two,Unknown,Concrete Perimeter,Elec Forced Air,Community,Community,460000.0,5/7/2024,170
+McCall,Lick Creek Meadows Phase 1,0.22,Yes,Yes,4,4.0,2904,New-Never Occupied,2023,Two,Unknown,Concrete Perimeter,"Fireplace Insert, Heat Pump, Propane Forced Air",PLSWD,Public,1150000.0,1/12/2024,52
+Donnelly,Hawks Bay 2,0.416,Yes,Yes,5,3.0,3056,Under Construction,2024,Three,Unknown,Concrete Perimeter,"Propane, Propane Forced Air, Wood Stove",NLSD,NLSD,935000.0,2/29/2024,91
+McCall,Evergreen Terrace 2,0.2045,Yes,Yes,3,2.0,1206,21 - 30 Years,1992,One,Unknown,Concrete Perimeter,"Elec Baseboard, Fireplace",PLSWD,Public,675000.0,4/11/2024,122
+McCall,River's Crossing,1.147,Yes,Yes,5,7.0,4466,6 - 10 Years,2014,Five or More,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace, Fireplace Insert, Pellet Stove, Wall Heater",City,Public,1600000.0,2/20/2024,68
+McCall,Village at Deer Forest,0.165,Yes,Yes,3,2.0,1533,1 - 5 Years,2019,Two,Unknown,Concrete Perimeter,Elec Forced Air,City,Public,790000.0,3/14/2024,86
+McCall,Rio Vista,0.48,Yes,Yes,3,2.5,1933,1 - 5 Years,2021,Three,Unknown,"Concrete Perimeter, Slab","Heat Pump, Propane Fire Place, Propane Forced Air",Septic Installed,Public,1378000.0,5/15/2024,146
+Donnelly,Wagon Wheel Ranch 5,0.46,Yes,Yes,3,2.0,2092,21 - 30 Years,1995,Unknown,Unknown,Concrete Perimeter,"Elec Forced Air, Wood Stove",NLSD,Well,695000.0,3/18/2024,74
+McCall,Rio Vista 4,0.289,Yes,Yes,5,3.0,3312,31 - 50 Years,1978,Unknown,One,"Concrete Perimeter, Slab","Elec Baseboard, Fireplace Insert, Wood Stove",City,Public,830000.0,12/1/2023,78
+McCall,Aspen Ridge 1,0.4,Yes,Yes,3,3.0,2260,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,"Propane Fire Place, Propane Forced Air",City,Public,1000000.0,2/28/2024,48
+McCall,Timberlost 6,0.2309,Yes,Yes,3,2.5,1820,21 - 30 Years,2003,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place, Wall Heater",City,Public,1065000.0,2/23/2024,42
+Donnelly,Unknown,4.123,No,Yes,3,2.0,1960,31 - 50 Years,1992,Two,Unknown,Slab,Elec Forced Air,Septic Installed,"Spring, Well",790000.0,2/28/2024,50
+Donnelly,Tamarack Resort Village Plaza Condominium,0.0,Yes,Yes,2,2.5,1305,New-Never Occupied,2023,Two,Unknown,Unknown,Unknown,NLSD,NLSD,1449000.0,1/12/2024,2
+McCall,Lardo,0.17,Yes,Yes,1,1.0,384,81+ Years,1940,Unknown,Unknown,Concrete Perimeter,"Elec Baseboard, Wall Heater, Wood Stove",NLSD,Public,350000.0,4/11/2024,85
+McCall,Running Horse,0.06,Yes,Yes,4,3.0,2299,New-Never Occupied,2023,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",PLSWD,Public,1924000.0,4/17/2024,91
+McCall,Running Horse,0.049,Yes,Yes,3,3.0,1990,Under Construction,2024,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",PLSWD,Public,815000.0,4/11/2024,81
+McCall,Jug Mountain Ranch Phase 2,0.589,Yes,Yes,3,3.5,3524,New-Never Occupied,2024,Two,Unknown,Unknown,Propane Forced Air,City,Community,1895000.0,2/29/2024,28
+Donnelly,Wagon Wheel Ranch 2,0.459,Yes,Yes,3,2.0,1872,11 - 20 Years,2006,Unknown,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",NLSD,Well,589000.0,3/7/2024,32
+McCall,Hoff and Brown,0.172,Yes,Yes,3,2.0,1545,51 - 80 Years,1958,Unknown,Unknown,Concrete Perimeter,"Fireplace Insert, Oil Forced Air",PLSWD,Public,639900.0,3/11/2024,33
+McCall,Unknown,2.84,Yes,Yes,3,2.0,1288,51 - 80 Years,1969,Two,Unknown,Concrete Perimeter,"Elec Baseboard, Wood Stove",City,Well,735000.0,3/22/2024,42
+Donnelly,Tamarack Resort Planned Unit Development Phase 3.2,0.3,Yes,Yes,4,3.5,3364,Under Construction,2024,Two,Unknown,Unknown,"Elec Forced Air, Propane Forced Air",NLSD,NLSD,Unknown,Unknown,140
+McCall,Lake Fork Estates,1.74,Yes,Yes,3,2.0,1686,31 - 50 Years,1983,One,Unknown,Concrete Perimeter,"Gas Forced Air, Propane, Wall Heater, Wood Stove",Septic Installed,Well,750000.0,5/3/2024,77
+McCall,Jacobs Manor,0.1326,Yes,Yes,3,2.0,1040,31 - 50 Years,1993,Unknown,Unknown,Concrete Perimeter,Propane Forced Air,PLSWD,Public,320000.0,5/1/2024,66
+McCall,Blackhawk on the River 1,0.534,Yes,Yes,3,2.5,2415,< 1 Year,2023,Two,Unknown,Concrete Perimeter,Propane Forced Air,Community,Community,1235000.0,5/16/2024,76
+McCall,Aspen Ridge 2,0.473,Yes,Yes,3,3.0,2811,11 - 20 Years,2013,Three,Unknown,Concrete Perimeter,"Fireplace Insert, Heat Pump, Propane, Propane Fire Place, Propane Forced Air",City,Public,Unknown,Unknown,123
+McCall,Broken Ridge,0.42,Yes,Yes,3,2.5,2211,11 - 20 Years,2004,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace Insert",City,Public,804000.0,4/29/2024,40
+Donnelly,Wagon Wheel Ranch 5,0.459,No,Yes,3,2.0,1404,31 - 50 Years,1984,Unknown,Unknown,Concrete Perimeter,"Propane Forced Air, Wood Stove",NLSD,Well,470000.0,5/17/2024,57
+McCall,Lick Creek Meadows Phase 1,0.22,Yes,Yes,3,3.0,1967,New-Never Occupied,2024,Two,Unknown,Concrete Perimeter,"Heat Pump, Propane, Propane Fire Place, Propane Forced Air",City,Public,839000.0,5/15/2024,37
+McCall,Unknown,8.89,Yes,Yes,5,4.0,4884,31 - 50 Years,1986,Three,Unknown,Slab,"Elec Forced Air, Wood Stove",Septic Installed,Well,2095000.0,5/30/2024,51
+Donnelly,Wagon Wheel Ranch 1,0.4607,Yes,Yes,2,1.0,868,51 - 80 Years,1972,Unknown,Unknown,Unknown,Elec Forced Air,NLSD,Well,Unknown,Unknown,81
+McCall,Spring Mountain Meadows,0.336,Yes,Yes,4,3.0,2425,1 - 5 Years,2022,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Pellet Stove",City,Public,1355000.0,5/30/2024,44
+Donnelly,Donnelly Townsite,0.16,No,Yes,3,2.0,1072,1 - 5 Years,2020,One,Unknown,Concrete Perimeter,"Elec Baseboard, Mini-Splits",NLSD,Public,400000.0,5/30/2024,43
+McCall,Lakeforest,0.25,Yes,Yes,2,2.0,1284,6 - 10 Years,2014,One,Unknown,Concrete Perimeter,"Propane Fire Place, Wall Heater, Wood Stove",City,Public,Unknown,Unknown,75
+Donnelly,Woods on Norwood The,1.13,Yes,Yes,3,2.0,1698,< 1 Year,2021,Two,Unknown,Unknown,Propane Forced Air,City,Well,895000.0,5/10/2024,22
+Donnelly,Meadows at West Mountain 1,0.19,Yes,Yes,3,2.0,1322,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Mini-Splits",NLSD,NLSD,399000.0,5/10/2024,22
+Donnelly,CR 4,1.7,No,Yes,1,1.0,600,51 - 80 Years,1964,Unknown,Unknown,Other,Unknown,Needs Approval,Needs Water,315000.0,5/30/2024,36
+Donnelly,Smiling Julie,0.3114,No,Yes,2,1.0,1008,21 - 30 Years,1997,Unknown,Unknown,Concrete Perimeter,"Elec Baseboard, Wall Heater, Wood Stove",NLSD,Spring,419700.0,6/18/2024,50
+McCall,Aspen Ridge 1,0.33,Yes,Yes,3,2.5,2440,11 - 20 Years,2006,Two,Unknown,Concrete Perimeter,"Propane Fire Place, Wall Heater",PLSWD,Public,Unknown,Unknown,61
+McCall,Lick Creek Meadows Phase 2,0.22,Yes,Yes,3,2.0,1580,1 - 5 Years,2021,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace Insert",City,Public,865000.0,5/30/2024,24
+McCall,Pine Terrace 2,0.64,Yes,Yes,3,2.0,1320,11 - 20 Years,2003,Two,One,Concrete Perimeter,"Elec Forced Air, Pellet Stove, Propane, Propane Fire Place",Septic Installed,Community,Unknown,Unknown,56
+Donnelly,Wagon Wheel Ranch 1,0.78,Yes,Yes,3,3.0,3617,21 - 30 Years,1999,Two,Two,Concrete Perimeter,"Elec Baseboard, Fireplace, Fireplace Insert, Gas Forced Air, Propane Fire Place, Propane Forced Air, Wood Stove",NLSD,Well,930000.0,6/10/2024,33
+McCall,West Place,3.0,No,Yes,4,3.0,2880,11 - 20 Years,2004,Two,Three,Concrete Perimeter,"Gas Forced Air, Propane Fire Place, Propane Forced Air, Radiant, Wall Heater, Wood Stove",Septic Installed,Well,1124000.0,6/14/2024,37
+Donnelly,Meadows at West Mountain 1,0.1837,Yes,Yes,3,2.0,1430,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,Elec Forced Air,Community,Community,440000.0,6/20/2024,43
+McCall,Shore Lodge Cottages,0.15,Yes,Yes,2,2.5,1953,1 - 5 Years,2020,One,Unknown,Slab,"Propane, Propane Fire Place, Propane Forced Air",PLSWD,Public,1750000.0,6/24/2024,41
+McCall,Hoff and Brown,0.182,Yes,Yes,3,2.0,1438,51 - 80 Years,1956,Unknown,Two,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",City,Public,Unknown,Unknown,49
+Donnelly,Fir Grove Estates,0.503,No,Yes,3,2.0,1690,11 - 20 Years,2006,Two,Unknown,Concrete Perimeter,"Pellet Stove, Propane Forced Air",City,Public,Unknown,Unknown,54
+McCall,Lakeforest,0.19,Yes,Yes,3,2.0,1150,11 - 20 Years,2003,Two,Unknown,"Concrete Perimeter, Slab","Elec Forced Air, Pellet Stove",City,Public,590000.0,6/21/2024,37
+McCall,Evergreen Terrace 1,0.26,Yes,Yes,3,2.0,1500,21 - 30 Years,2001,Unknown,Unknown,Unknown,"Elec Forced Air, Propane",City,Public,554000.0,6/20/2024,35
+Donnelly,Windsong,0.48,No,Yes,3,1.0,1324,21 - 30 Years,2001,Unknown,Unknown,Concrete Perimeter,"Fireplace, Wall Heater",NLSD,Community,Unknown,Unknown,47
+McCall,Spring Mountain Ranch 1,0.45,Yes,Yes,4,3.0,2060,21 - 30 Years,1995,Two,Unknown,Concrete Perimeter,"Fireplace, Propane Forced Air",City,Public,935000.0,6/28/2024,39
+McCall,Unknown,0.5112,No,Yes,3,2.5,1772,31 - 50 Years,1981,Two,One,Concrete Perimeter,"Elec Baseboard, Propane Fire Place",City,Public,816000.0,3/13/2024,1
+McCall,Spring Mountain Meadows,0.26,Yes,Yes,3,3.0,2156,6 - 10 Years,2015,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Fireplace",PLSWD,Public,Unknown,Unknown,40
+Donnelly,Big Smokey 1,0.2867,Yes,Yes,1,1.0,0,Under Construction,2021,One,One,Concrete Perimeter,Other,NLSD,Well,Unknown,Unknown,40
+McCall,Pine Terrace 1,1.953,No,Yes,1,1.0,612,21 - 30 Years,2002,Five or More,Unknown,Concrete Perimeter,"Elec Baseboard, Propane Forced Air, Wall Heater",Septic Installed,Well,Unknown,Unknown,35
+Donnelly,Hillhouse,1.0168,No,Yes,1,1.0,548,6 - 10 Years,2018,Unknown,One,Concrete Perimeter,"Elec Forced Air, Wood Stove",City,Well,425000.0,6/21/2024,23
+McCall,Homestead Estates,20.02,Yes,Yes,3,3.0,2960,21 - 30 Years,1996,Three,Unknown,Concrete Perimeter,"Elec Baseboard, Fireplace Insert, Propane Fire Place, Wood Stove",Septic Installed,Well,Unknown,Unknown,33
+McCall,Spring Mountain Ranch 3,0.31,Yes,Yes,3,2.0,1596,6 - 10 Years,2014,Two,Unknown,Concrete Perimeter,"Elec Forced Air, Propane Fire Place",City,Public,Unknown,Unknown,33
+Donnelly,Wagon Wheel Ranch 5,0.49,No,Yes,3,2.0,1370,< 1 Year,2023,Unknown,Unknown,"Pillar/Post/Pier, Slab","Elec Forced Air, Fireplace Insert",City,Well,Unknown,Unknown,30
+McCall,Lake Fork Landing,1.9,No,Yes,4,3.0,3021,New-Never Occupied,2023,Four,Unknown,Unknown,Unknown,Septic Approved,Artesian Well,1400000.0,10/24/2023,2
+McCall,Geelan Addition,0.73,Yes,Yes,2,2.0,1072,31 - 50 Years,1991,One,Unknown,Concrete Perimeter,"Elec Baseboard, Pellet Stove, Wall Heater",City,Public,Unknown,Unknown,25
+McCall,Blackhawk on the River 1,0.81,Yes,Yes,4,4.5,3394,Under Construction,2024,Three,Unknown,Concrete Perimeter,"Propane Fire Place, Propane Forced Air",Community,Community,Unknown,Unknown,23
+McCall,Kings Pines 3,2.24,Yes,Yes,4,6.0,5072,11 - 20 Years,2008,Five or More,Unknown,Concrete Perimeter,"Fireplace, Propane, Propane Fire Place, Radiant",Septic Installed,Community,Unknown,Unknown,21
+McCall,Ashbrook Condos,0.0,Yes,Yes,2,1.0,703,31 - 50 Years,1984,Unknown,Unknown,Concrete Perimeter,Elec Baseboard,PLSWD,Public,412900.0,6/27/2024,15
+McCall,Jug Mountain Ranch Phase 1 Stage 2,0.645,Yes,Yes,4,2.0,2286,11 - 20 Years,2005,Two,Unknown,Concrete Perimeter,"Propane Fire Place, Propane Forced Air",Community,Community,Unknown,Unknown,21
+Donnelly,Wagon Wheel Ranch 5,0.4622,No,Yes,2,1.0,968,31 - 50 Years,1989,One,Unknown,Concrete Perimeter,"Elec Baseboard, Propane Fire Place",NLSD,Well,Unknown,Unknown,12
+McCall,Unknown,0.27,Yes,Yes,3,1.5,1200,51 - 80 Years,1973,Unknown,Two,Concrete Perimeter,"Elec Baseboard, Propane Fire Place, Wood Stove",City,Public,Unknown,Unknown,9
+McCall,Evergreen Terrace 3,0.2137,Yes,Yes,3,2.0,1708,31 - 50 Years,1992,One,Unknown,Concrete Perimeter,"Elec Baseboard, Pellet Stove",PLSWD,Public,740000.0,6/26/2024,17
